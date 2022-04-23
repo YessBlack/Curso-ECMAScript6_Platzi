@@ -1,0 +1,23 @@
+{
+  "name": "6---curso-ecma-script-6",
+  "version": "1.0.0",
+  "description": "\"ECMA SCRIPT 6 PRACTICAS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YessBlack/Curso-ECMAScript6_Platzi.git"
+  },
+  "keywords": [
+    "\"Practica",
+    "EcmaScript6\""
+  ],
+  "author": "\"yessblack\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YessBlack/Curso-ECMAScript6_Platzi/issues"
+  },
+  "homepage": "https://github.com/YessBlack/Curso-ECMAScript6_Platzi#readme"
+}
